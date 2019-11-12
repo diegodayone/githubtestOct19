@@ -17,3 +17,13 @@ h2 {
 .myClass {
     font-size: normal;
 }
+.artistSection {
+    color: red;
+    text-align: center;
+}
+
+h3 {
+    color: gainsboro;
+    border: 1px solid green;
+}
+
